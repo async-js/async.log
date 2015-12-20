@@ -10,7 +10,7 @@
   "version": "0.4.3",
   "license": "MIT",
   "dependencies": {
-    "async.util.consolefn": "0.4.3"
+    "async.util.consolefn": "0.5.0"
   },
   "keywords": [
     "async",
